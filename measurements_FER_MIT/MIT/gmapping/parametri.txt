@@ -1,1 +1,0 @@
-3  --- _particles:=60 _srr:=0.1 _srt:=0.2 _str:=0.1 _stt:=0.2 _occ_thresh:=0.75
