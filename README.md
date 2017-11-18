@@ -1,7 +1,7 @@
 # map_deformation_measurements
 Example images in the map_images folder, raw data in the data folder, python script which plots the data
 
-#script.py
+#mapping_error.py
 
 Script takes .csv file(s) with distances measured on the built map under "-m" argument; single file with ground
 truth measurements under "-g" argument.
