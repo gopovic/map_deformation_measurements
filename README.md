@@ -26,4 +26,4 @@ An example of calling python script:
 python script.py -m data/FER_gmapping.csv data/FER_gmapping_wpm.csv data/FER_cartographer.csv -g data/FER_ground_truth.csv
 
 
-Script is used for SLAM algorithms evaluation in the conference paper (LINK TO THE PAPER).
+Script is used for SLAM algorithms evaluation in the conference paper https://link.springer.com/chapter/10.1007/978-3-319-70833-1_2.
