@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Sep 13 20:40:00 2017
+Script is used to reproduce the results of the evaluation method used in the paper:
+https://link.springer.com/chapter/10.1007/978-3-319-70833-1_2
 
 
 Script takes .csv file(s) with distances measured on the built map and .csv file with the ground truth distances.
